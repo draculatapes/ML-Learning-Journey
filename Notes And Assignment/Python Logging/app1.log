@@ -1,0 +1,5 @@
+2025-09-03 23:06:41 - ArithmaticApp - DEBUG - adding 1 and 2 : 3 
+2025-09-03 23:06:41 - ArithmaticApp - DEBUG - mul 2 and 3 : , 6 
+2025-09-03 23:06:41 - ArithmaticApp - DEBUG - sub 3 and 2 : , 1
+2025-09-03 23:06:41 - ArithmaticApp - DEBUG -  diviing 1 and 2 , 0.5
+2025-09-03 23:06:41 - ArithmaticApp - ERROR - division by zero error
